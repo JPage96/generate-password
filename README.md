@@ -22,3 +22,6 @@ THEN the password is either displayed in an alert or written to the page
 
 # Screenshot
 ![mockup](./assets/images/mockup.png "mockup")
+
+# Deployment
+https://jpage96.github.io/generate-password/
